@@ -9,7 +9,7 @@ Supplementary Data 3 - Binary files obtained using cblaster for each BGC query.
 
 ## Supplementary Information
 
-Supplementary Methods, Supplementary Figures, Supplementary Algorithm
+Supplementary Methods (contains information needed to replicate analysis), Supplementary Figures, Supplementary Algorithm.  
 
 ## Citation:
 TBC
