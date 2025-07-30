@@ -1,0 +1,8 @@
+syntenyqc collect -bp C:/Users/u03132tk/TimsData/CBLASTER/CageCleaner_act_filtered.csv -ns 75000 -em tdjkirkwood@hotmail.com
+syntenyqc collect -bp C:/Users/u03132tk/TimsData/CBLASTER/CageCleaner_act.csv -ns 75000 -em tdjkirkwood@hotmail.com
+syntenyqc collect -bp C:/Users/u03132tk/TimsData/CBLASTER/CageCleaner_staph.csv -ns 75000 -em tdjkirkwood@hotmail.com
+syntenyqc collect -bp C:/Users/u03132tk/TimsData/CBLASTER/CageCleaner_staph_filtered.csv -ns 75000 -em tdjkirkwood@hotmail.com
+syntenyqc sieve -gf C:\Users\u03132tk\TimsData\CBLASTER\CageCleaner_staph\neighbourhood -sf 0.7 -mts 1146
+syntenyqc sieve -gf C:\Users\u03132tk\TimsData\CBLASTER\CageCleaner_staph_filtered\neighbourhood -sf 0.7
+syntenyqc sieve -gf C:\Users\u03132tk\TimsData\CBLASTER\CageCleaner_act\neighbourhood -sf 0.7 -mts 8933 
+syntenyqc sieve -gf C:\Users\u03132tk\TimsData\CBLASTER\CageCleaner_act_filtered\neighbourhood -sf 0.7 -mts 4846
